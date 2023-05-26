@@ -1,0 +1,21 @@
+<style_filter_list>
+    <style_color_group_list>
+        <style_color_group>Black</style_color_group>
+        <style_color_group>White</style_color_group>
+    </style_color_group_list>
+    <style_gender_group_list>
+        <style_gender_group>men</style_gender_group>
+    </style_gender_group_list>
+    <style_weight_group_list>
+        <style_weight_group>200 - 219 g/m²</style_weight_group>
+    </style_weight_group_list>
+    <style_details_group_list/>
+    <style_product_group_list>
+        <style_product_group>Washable up to 60°</style_product_group>
+        <style_product_group>Gastronomy</style_product_group>
+        <style_product_group>Cookwear</style_product_group>
+    </style_product_group_list>
+    <style_sleeve_group_list>
+        <style_sleeve_group>Long-sleeved</style_sleeve_group>
+    </style_sleeve_group_list>
+</style_filter_list>

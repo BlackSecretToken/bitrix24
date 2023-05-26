@@ -1,0 +1,32 @@
+<sku_artnum>999670001</sku_artnum>
+<sku_color_code>000</sku_color_code>
+<sku_color_name>White</sku_color_name>
+<sku_color_swatch>999_67_000.jpg</sku_color_swatch>
+<sku_color_swatch_url>
+    <![CDATA[ http://download.falk-ross.eu/ws/picto/999_67_000.jpg ]]>
+</sku_color_swatch_url>
+<sku_color_picture>999_67_000_f-2022_01.jpg</sku_color_picture>
+<sku_color_picture_url>
+    <![CDATA[ http://download.falk-ross.eu/ws/picture/999_67_000_f-2022_01.jpg ]]>
+</sku_color_picture_url>
+<sku_size_code>1</sku_size_code>
+<sku_size_name>XS</sku_size_name>
+<sku_size_order>1</sku_size_order>
+<sku_changed_date>2023-02-24</sku_changed_date>
+<sku_closeout>0</sku_closeout>
+<sku_new>0</sku_new>
+<sku_ean>4040857042927</sku_ean>
+<sku_weight>0.36</sku_weight>
+<sku_coo>PK</sku_coo>
+<sku_pieces_in_pack>1</sku_pieces_in_pack>
+<sku_pieces_in_carton>25</sku_pieces_in_carton>
+<price>
+    <currency>EUR</currency>
+    <exchange_rate>1</exchange_rate>
+    <your_price>20.85</your_price>
+</price>
+<stock>
+    <g>1</g>
+    <y>0</y>
+    <b>185</b>
+</stock>

@@ -1,0 +1,16 @@
+<price_list>
+    <export_data_date>2023-05-23 06:43:58</export_data_date>
+    <file_version>R000-010</file_version>
+    <currency>EUR</currency>
+    <exchange_rate>1</exchange_rate>
+    <sku_list>
+        <sku>
+            <sku_nr>999671018</sku_nr>
+            <your_price>20.85</your_price>
+        </sku>
+        <sku>
+            <sku_nr>999671017</sku_nr>
+            <your_price>20.85</your_price>
+        </sku>
+    </sku_list>
+</price_list>

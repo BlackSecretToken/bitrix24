@@ -1,0 +1,62 @@
+<style_picture_list>
+    <style_picture>
+        <filename>
+            <![CDATA[ 999_67_black_1.jpg ]]>
+        </filename>
+        <shottype>-</shottype>
+        <pos>1</pos>
+        <url>
+            <![CDATA[ http://download.falk-ross.eu/ws/picture/999_67_black_1.jpg ]]>
+        </url>
+    </style_picture>
+    <style_picture>
+        <filename>
+            <![CDATA[ 999_67_000_m-2020_01.jpg ]]>
+        </filename>
+        <shottype>m</shottype>
+        <pos>2</pos>
+        <url>
+            <![CDATA[ http://download.falk-ross.eu/ws/picture/999_67_000_m-2020_01.jpg ]]>
+        </url>
+    </style_picture>
+    <style_picture>
+        <filename>
+            <![CDATA[ 999_67_101_sl-2022_01.jpg ]]>
+        </filename>
+        <shottype>-</shottype>
+        <pos>3</pos>
+        <url>
+            <![CDATA[ http://download.falk-ross.eu/ws/picture/999_67_101_sl-2022_01.jpg ]]>
+        </url>
+    </style_picture>
+    <style_picture>
+        <filename>
+            <![CDATA[ 999_67_101_b-2022_01.jpg ]]>
+        </filename>
+        <shottype>b</shottype>
+        <pos>4</pos>
+        <url>
+            <![CDATA[ http://download.falk-ross.eu/ws/picture/999_67_101_b-2022_01.jpg ]]>
+        </url>
+    </style_picture>
+    <style_picture>
+        <filename>
+            <![CDATA[ 999_67_101_sr-2022_01.jpg ]]>
+        </filename>
+        <shottype>-</shottype>
+        <pos>5</pos>
+        <url>
+            <![CDATA[ http://download.falk-ross.eu/ws/picture/999_67_101_sr-2022_01.jpg ]]>
+        </url>
+    </style_picture>
+    <style_picture>
+        <filename>
+            <![CDATA[ 999_67_101_d-2022_01.jpg ]]>
+        </filename>
+        <shottype>d</shottype>
+        <pos>6</pos>
+        <url>
+            <![CDATA[ http://download.falk-ross.eu/ws/picture/999_67_101_d-2022_01.jpg ]]>
+        </url>
+    </style_picture>
+</style_picture_list>

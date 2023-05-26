@@ -1,0 +1,17 @@
+<product>
+    <product_variant>
+        <SKU>999670001</SKU>
+        <g>
+            <Flag>=</Flag>
+            <Quantity>1</Quantity>
+        </g>
+        <y>
+            <Flag>=</Flag>
+            <Quantity>0</Quantity>
+        </y>
+        <b>
+            <Flag>=</Flag>
+            <Quantity>185</Quantity>
+        </b>
+    </product_variant>
+</product>
